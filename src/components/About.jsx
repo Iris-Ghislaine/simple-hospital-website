@@ -6,20 +6,20 @@ function About() {
           About Baho Hospital
         </h1>
         <p>
-          Baho Hospital Founded in 2005, has served the community for over 15
+          Baho Hospital Founded in 2005, <br />
+           has served the community for over 15
           <br />
-          years, offering trusted, quality healthcare. Our mission is to provide
+          years, offering trusted, quality healthcare. <br />
+           Our mission is to provide
           <br />
-          affordable, accessible, and patient-centered services using modern
-          <br />
-          medical technology.
+          affordable, accessible, and patient-centered <br />
+           services using modern medical technology.
         </p>
       </div>
-      <div className="shadow-xl rounded-lg bg-gray-100 p-20 flex justify-between gap-70">
+      <div className="shadow-xl rounded-lg bg-gray-100 p-18 flex flex-row gap-70">
         <h1 className="text-green-900 text-2xl font-bold">Why Choose Us</h1>
       <ul className="space-y-4 text-lg text-gray-700">
   <li className="flex items-center gap-3">
-    {/* Doctor Icon */}
     <svg
       xmlns="http://www.w3.org/2000/svg"
       fill="none"

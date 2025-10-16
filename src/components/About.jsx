@@ -1,6 +1,7 @@
 function About() {
   return (
-    <div className="flex flex-col gap-20 items-center p-20">
+    <div className="flex flex-col gap-20 items-center pt-25">
+        <h2 className="text-3xl font-bold text-green-900 text-center">About Baho</h2>
       <div className="shadow-xl rounded-lg bg-gray-100 p-20 flex justify-between gap-60">
         <h1 className="text-green-900 text-2xl font-bold">
           About Baho Hospital
